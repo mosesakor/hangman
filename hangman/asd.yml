@@ -1,0 +1,17 @@
+---
+:player1: !ruby/object:Hangman::Player
+  name: moe
+:word1: teachable
+:board1:
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+:prev_guesses1:
+- save
+:rounds1: 3

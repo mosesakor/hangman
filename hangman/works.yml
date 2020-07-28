@@ -1,0 +1,16 @@
+---
+:player: !ruby/object:Hangman::Player
+  name: moe
+:word: galaxy
+:board:
+- _
+- a
+- _
+- a
+- _
+- y
+:prev_guesses:
+- a
+- y
+- save
+:rounds: 3
